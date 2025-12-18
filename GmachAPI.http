@@ -1,0 +1,6 @@
+@GmachAPI_HostAddress = http://localhost:5217
+
+GET {{GmachAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
